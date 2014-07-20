@@ -96,16 +96,21 @@ Or to get specific signel as *NSDictionary*
   }
 }
 ```
+## Build 
+you need to install the applictaion in main /Application directory in order to access private frameworks so in order to build you need to do first Command + Shift + I then go to Products -> Show In folder -> Back to previous dir you must find Release-YourApplicationName folder upload XXXXX.app to your device by scp to /Application and reboot your device 
 
 ## To-Do List 
 
 - [ ] Filtering API (Working On)
-- [ ] Fully Functional App 
+- [ ] Fully Functional App  
 
 
 ## Thanks 
 Your Ideas , Collaborations , Code Review are highly welcomed and appreciated and again thanks for being awesome :) any question @mustafa96m on twitter
 
+you need to checkout for more detailed information :) 
+https://code.google.com/p/iphone-wireless/ 
+https://code.google.com/p/iphone-wireless/wiki/Stumbler ( Awesome )
 
 
 
